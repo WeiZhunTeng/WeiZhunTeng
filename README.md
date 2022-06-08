@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and playing video games
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on Data
-- 📫 Reach me on Facebook, gmail and Whatsapp
+- 📫 Reach me on Facebook, Gmail and Whatsapp
 
 <!---
 WeiZhunTeng/WeiZhunTeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
